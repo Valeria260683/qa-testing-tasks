@@ -1,0 +1,16 @@
+<!--XML13. Создание XML для сотрудников
+Задание: Создайте XML-документ с данными о сотрудниках:
+•  employee (атрибут: id)
+•  name, position, salary-->  
+<employees>
+        <employee id="1">
+            <name>Алексей Смирнов</name>
+            <position>Разработчик</position>
+            <salary>120000</salary>
+        </employee>
+         <employee id="2">
+            <name>Екатерина Иванова</name>
+            <position>Тестировщик</position>
+            <salary>90000</salary>
+        </employee>
+    </employees>

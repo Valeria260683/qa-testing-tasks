@@ -1,0 +1,25 @@
+<!--XML
+3. Вложенные элементы
+Задание: Создайте XML-документ для заказа:
+• orderId (ID заказа)
+• customer (содержит имя и email клиента)
+• items (список товаров, каждый с product, quantity, price)--> 
+<order>
+      <orderId>12345</orderId>
+      <customer>
+        <name>Иван Иванов</name>
+        <email>ivan@example.com</email>
+      </customer>
+      <items>
+        <item>
+          <product>Книга</product>
+          <quantity>2</quantity>
+          <price>250</price>
+        </item>
+        <item>
+          <product>Ручка</product>
+          <quantity>5</quantity>
+          <price>50</price>
+        </item>
+      </items>
+    </order>

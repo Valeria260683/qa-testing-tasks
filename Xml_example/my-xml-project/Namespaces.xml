@@ -1,0 +1,8 @@
+<!--XML 
+9. Создание XML с пространствами имён (Namespaces)
+Задание: Добавьте в XML-документ пространство имён и используйте его в элементах.--> 
+<root xmlns:lib="http://example.com/library">
+<lib:book>
+<lib:title>Sample Book</lib:title>
+</lib:book>
+</root>

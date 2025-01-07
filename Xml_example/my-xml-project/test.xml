@@ -1,0 +1,18 @@
+<!--XML
+15. Подсчёт элементов в XML
+Задание: Подсчитайте количество элементов <item> в XML-документе.-->  
+<root>
+    <items>
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </items>
+    <other_items>
+      <item>Item 4</item>
+    </other_items>
+     <some_data>
+      <nested>
+        <item>Item 5</item>
+      </nested>
+    </some_data>
+</root>

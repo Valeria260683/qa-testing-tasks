@@ -1,0 +1,9 @@
+<!--XML 
+8. Проверка XML на корректность (Validation)
+Задание: Проверьте корректность XML-документа.
+Пример некорректного XML:--> 
+<book>
+    <title>Example</title>
+    <author>Author</author>
+    <year>2023
+</book>

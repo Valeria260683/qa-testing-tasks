@@ -1,0 +1,18 @@
+<!--XML 
+16. Поиск элемента по атрибуту
+Задание: Найдите элемент с атрибутом id="123" в XML-документе.--> 
+
+ <employees>
+    <employee id="123">
+        <name>Иван</name>
+        <position>Менеджер</position>
+    </employee>
+    <employee id="456">
+        <name>Мария</name>
+        <position>Дизайнер</position>
+    </employee>
+    <employee id="789">
+      <name>Сергей</name>
+      <position>Программист</position>
+    </employee>
+</employees>

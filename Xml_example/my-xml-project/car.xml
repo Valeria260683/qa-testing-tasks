@@ -1,0 +1,20 @@
+<!--XML
+4. Атрибуты и элементы
+Задание: Создайте XML с атрибутами и элементами для автомобиля:
+•  Атрибуты: make (производитель), model (модель)
+•  Элементы: year, color--> 
+
+<cars>
+    <car make="Toyota" model="Corolla">
+        <year>2022</year>
+        <color>White</color>
+    </car>
+    <car make="Honda" model="Civic">
+        <year>2021</year>
+        <color>Red</color>
+    </car>
+    <car make="Ford" model="Mustang">
+        <year>2023</year>
+        <color>Blue</color>
+    </car>
+</cars>

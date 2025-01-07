@@ -1,0 +1,14 @@
+<!--XML 
+17. Валидация XML с использованием XSD --> 
+<employees>
+        <employee id="1">
+            <name>Иван Иванов</name>
+            <position>Программист</position>
+            <salary>100000</salary>
+        </employee>
+        <employee id="2">
+            <name>Мария Петрова</name>
+            <position>Дизайнер</position>
+            <salary>80000</salary>
+        </employee>
+    </employees>
